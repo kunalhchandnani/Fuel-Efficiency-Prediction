@@ -1,6 +1,6 @@
 # **Fuel-Efficiency-Prediction**
 
-This project leverages machine learning techniques to predict fuel prices using a dataset containing various automobile features. The workflow includes data preprocessing, exploratory data analysis (EDA), and building predictive models with deep learning. The project aims to provide a robust model for predicting fuel prices based on the characteristics of vehicles.
+This project leverages machine learning techniques to predict fuel efficiences using a dataset containing various automobile features. The workflow includes data preprocessing, exploratory data analysis (EDA), and building predictive models with deep learning. The project aims to provide a robust model for predicting fuel prices based on the characteristics of vehicles.
 
 **Features**
 
