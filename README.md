@@ -58,3 +58,7 @@ The project utilizes the **auto-mpg.csv** dataset, which includes features such 
 
 * The training history is visualized to show the model's performance across epochs.
 * Plots include loss and MAPE for both training and validation sets.
+
+![image](https://github.com/kunalhchandnani/Fuel-Price-Prediction/assets/88874426/38c0ac96-8451-45cb-b750-3e6147e2fd94)
+![image](https://github.com/kunalhchandnani/Fuel-Price-Prediction/assets/88874426/9aedc0e9-908b-48da-a517-87da9c144a5d)
+
